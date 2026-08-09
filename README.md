@@ -60,37 +60,11 @@ I work primarily with **TypeScript, React, Next.js and Node.js**, with experienc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nevesapi&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesapi&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=nevesapi&theme=tokyonight&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nevesapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    width="100%"
   />
 </p>
 
@@ -102,16 +76,15 @@ I work primarily with **TypeScript, React, Next.js and Node.js**, with experienc
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake-dark.svg"
     />
-
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake.svg"
   />
 
-<img
-  src="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-/>
+  <img
+    src="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 
   </picture>
 </p>
@@ -129,34 +102,6 @@ The project combines modern frontend development, backend architecture, data ana
 **Tech:** Next.js • TypeScript • React • Tailwind CSS • Node.js • PostgreSQL • Supabase • Docker • AI
 
 [🔗 View repository](https://github.com/nevesapi)
-
----
-
-## 📈 My Developer Journey
-
-```text
-HTML / CSS
-    ↓
-JavaScript
-    ↓
-TypeScript
-    ↓
-React
-    ↓
-Next.js
-    ↓
-Node.js
-    ↓
-Databases
-    ↓
-Testing
-    ↓
-AI Integration
-    ↓
-Software Architecture
-    ↓
-Cloud & DevOps
-```
 
 ---
 
