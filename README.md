@@ -96,8 +96,6 @@ I work primarily with **TypeScript, React, Next.js and Node.js**, with experienc
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
   <picture>
     <source
