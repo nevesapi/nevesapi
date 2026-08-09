@@ -45,11 +45,11 @@ I work primarily with **TypeScript, React, Next.js and Node.js**, with experienc
 ### Testing & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vitest,jest" />
+  <img src="https://skillicons.dev/icons?i=jest,vitest" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ### Tools
@@ -89,7 +89,8 @@ I work primarily with **TypeScript, React, Next.js and Node.js**, with experienc
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=nevesapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
+    src="https://github-profile-trophy.vercel.app/?username=nevesapi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    width="100%"
   />
 </p>
 
@@ -98,7 +99,23 @@ I work primarily with **TypeScript, React, Next.js and Node.js**, with experienc
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nevesapi/nevesapi/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake-dark.svg"
+    />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake.svg"
+  />
+
+<img
+  src="https://raw.githubusercontent.com/nevesapi/nevesapi/gh-pages/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+  </picture>
 </p>
 
 ---
@@ -151,17 +168,4 @@ Cloud & DevOps
   <a href="https://github.com/nevesapi">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com](https://www.linkedin.com/in/denis-neves-106272370/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nevesapi&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <i>Building, teaching and creating with technology.</i> 🚀
 </p>
